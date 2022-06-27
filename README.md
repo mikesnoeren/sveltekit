@@ -1,0 +1,2 @@
+# Svelte
+Svelte scaffolding project
